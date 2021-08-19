@@ -9,11 +9,11 @@ Sergei Yu. Noskov, Z. Hong Zhou, Alexander Pushkin, Ira Kurtz
 VMD scripts:
 - pbcwrap_trajectory.tcl: Wraps and aligns a MD trajectory with respect to selected protein atoms.
 This results in a MD trajectory with the protein in the center of the periodic cell, which can then be
-used for further analysis with scripts or VMD tools(e.g. VolMap)
+used for further analysis with scripts or VMD tools (e.g. VolMap)
 
 
 - permeation_count_ions_water.tcl: Evaluates the number of water molecules and Cl, CO3, HCO3, and Na ions which can
-be found in each frame of an MD trajectory.
+be found in a region of the protein, defined by provided x, y, and z coordinate ranges, in each frame of a MD trajectory.
 
 
 CHARMM script:

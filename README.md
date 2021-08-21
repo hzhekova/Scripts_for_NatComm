@@ -1,7 +1,7 @@
 # Scripts_for_NatComm
-This repository contains several TCL scripts used for trajectory analysis with VMD and CHARMM. 
+This repository contains several scripts used for trajectory analysis with VMD and CHARMM. 
 The scripts were used in the following publication in Nature Communications:
-Cryo-EM Structure of the Sodium-driven Chloride/Bicarbonate Exchanger NDCBE (SLC4A8) by
+Cryo-EM Structure of the Sodium-driven Chloride/Bicarbonate Exchanger SLC4A8 by
 Weiguang Wang, Kirill Tsirulnikov, Hristina Zhekova, Gulru Kayik, Hanif
 Muhammad-Khan, Rustam Azimov, Natalia Abuladze, Liyo Kao, Debbie Newman,
 Sergei Yu. Noskov, Z. Hong Zhou, Alexander Pushkin, Ira Kurtz
